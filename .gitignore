@@ -1,0 +1,83 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+pip-wheel-metadata/
+
+# Installer logs
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.pytest_cache/
+
+# Virtual environments
+venv/
+venv*/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints
+# (uncomment the next line if you do NOT want to track notebooks)
+# *.ipynb
+
+# Data, models, checkpoints, outputs, logs, temps
+data/
+datasets/
+models/
+checkpoints/
+checkpoints_*/
+outputs/
+outputs_*/
+weights/
+predictions/
+logs/
+tmp/
+*.ckpt
+*.pt
+*.pth
+
+# Hugging Face / caches
+.cache/
+.huggingface/
+transformers_cache/
+datasets_cache/
+# local user caches (note: ~ entries are not matched by git)
+# ~/.cache/huggingface
+
+# Secrets / env files
+.env
+.env.*
+*.secret
+credentials.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Linters / type checkers / docs
+.mypy_cache/
+.pyre/
+docs/_build/
