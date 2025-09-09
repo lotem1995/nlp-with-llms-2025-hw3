@@ -1,0 +1,2 @@
+section,method,questions_evaluated,valid_questions,excluded_questions,exclusion_rate,original_dspy_avg,corrected_avg_decimal,corrected_avg_percentage,timestamp,dataset_coverage,evaluation_framework,metric,part1_baseline,vs_part1_improvement,vs_paper_improvement
+4.4.1,LLM Cooperative QA,179,156,23,12.8%,0.3547,0.40697493339301205,40.697493339301204,20250909_232849,179/179 conversations (complete),dspy.Evaluate (with 0.0 exclusion),SemanticF1(decompositional=True),0.389,+4.6%,3.4x better

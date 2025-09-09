@@ -92,10 +92,6 @@ PragmatiCQA-sources/
 # FAISS indexes (large and can be rebuilt)
 faiss_indexes/
 
-# Results directory - keep structure but ignore timestamped files
-results/*_*.csv
-results/part1_detailed_results.csv
-results/part1_summary_results.csv
 
 # Temporary/working files
 *_clean.py
