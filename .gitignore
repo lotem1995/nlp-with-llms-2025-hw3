@@ -81,3 +81,24 @@ Thumbs.db
 .mypy_cache/
 .pyre/
 docs/_build/
+
+# Project-specific ignores
+# Large data directories
+PragmatiCQA-sources/
+
+# Generated results and outputs (but keep results/ structure)
+
+
+# FAISS indexes (large and can be rebuilt)
+faiss_indexes/
+
+
+# Temporary/working files
+*_clean.py
+*_temp.py
+
+# Lock files (keep pyproject.toml but ignore lock)
+uv.lock
+
+# api keys
+xai.ini

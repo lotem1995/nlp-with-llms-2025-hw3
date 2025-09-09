@@ -1,0 +1,376 @@
+conversation_id,topic,question,gold_answer,literal_answer,pragmatic_answer,retrieved_answer,literal_f1,literal_precision,literal_recall,pragmatic_f1,pragmatic_precision,pragmatic_recall,retrieved_f1,retrieved_precision,retrieved_recall,literal_context_length,pragmatic_context_length,retrieved_context_length,num_retrieved_passages
+0,A Nightmare on Elm Street (2010 film),who is freddy krueger?,"Freddy Kruger is the nightmare in nighmare on Elm street. Please note, and to be very clear, the system that loads up wiki is not allowing access to Adam Prag, to the page... so I'll have to go from memory.  Normally you can paste things and back up what you are saying, but today that's not happening. alas.",,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0
+1,A Nightmare on Elm Street (2010 film),who was the star on this movie?,"Robert Englund IS Freddy Kruger, the bad guy for these films. Note to you and to Adam, the Pragmatic one, the link here is broken and I can't paste relevant things, as has always been Nightmare's case, I'm perfectly good with answering your questions and will quickly do it, but have to open a tab in another window separate from the hit, I WILL go quickly and answer at rapid speed though, don't worry.",,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0
+2,A Nightmare on Elm Street (2010 film),What is the movie about?,"Ok, here goes, I'm getting ""Cannot get""..so, Nightmare on Elm street centers around the fact that in your dreams, Freddie Kruger, a dark figure can chase you and if you are killed while sleeping you die.",,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0
+3,A Nightmare on Elm Street (2010 film),Who directed the new film?,It was Directed by: Samuel Bayer. Note that the link here is broken. So I'm having to get some of this from memory. I copied what I have (this is ALL I have).,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0
+4,Batman,Is the Batman comic similar to the movies?,"I would say the movie and comics has same story line, as Batmans parents were the most wealthy folks in Gotham city, and they were killd while returning from a function by a small time criminal called Joe Chill",Gotham City socialites,his parents were killed by a small-time criminal named Joe Chill,different franchise,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,121,96,38840,5
+5,Batman,what is batman's real name?,Batman was created by Bob Kane and Bill Finger. His real identity is Bruce Wayne.,Bruce Wayne,Bruce Wayne,"Bruce Wayne
+      
+
+
+
+       Aliases",0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.5,0.45,0.55,11,200,120761,5
+6,Batman,How old was batman when he first became batman?,"I don't know. It is not clear when Bruce Wayne becomes Batman, but he becomes Batman sometime after his parents die.",I don't know,Bruce,1939,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,0.0,0.0,0.0,12,107,218798,5
+7,Batman,"Does Batman Have super powers, like invisibility, or the ability to organically shoot a web from his hand?","No, Batman has no super powers like other super heroes because he only relies on his intellect, detective skills, his wealth, physical prowess, aggressiveness, science and technology when he fights crime.",,intellect,does not possess any superpowers,0.0,0.0,0.0,0.2222222222222222,0.19999999999999998,0.24444444444444446,0.24999978124997269,0.22499980312497542,0.27499975937496995,0,116,218798,5
+8,Batman,Who are Batman's biggest enemies?,"The Joker and Catwoman are original enemies of Batman. However, there are numerous others one such being the super villain Mr. Bloom.",Catwoman,Catwoman,Blue Beetle,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,22,58,104536,5
+9,Batman,What is Batmans real name?,Batman's real identity is Bruce Wayne. He lives in Gotham City and is the CEO of Wayne Enterprises.,Bruce Wayne,CEO of Wayne Enterprises,"Bruce Wayne
+      
+
+
+
+       Aliases",0.5,0.45,0.55,0.49624060150375937,0.44661654135338347,0.5458646616541354,0.49624060150375937,0.44661654135338347,0.5458646616541354,46,25,120761,5
+10,Batman,"Ok, Is batman a superhero?","Yes, he has been the protector of Gotham City for a long time.",,Batman,"Unlike most superheroes, he does not possess any superpowers",0.0,0.0,0.0,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,0,52,218798,5
+11,Batman,who is the hero in batman,Bruce Wayne was the hero in batman,Bruce Wayne,Batman,"Bruce Wayne
+      
+
+
+
+       Aliases",0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,0.5,0.45,0.55,11,6,104311,5
+12,Batman,When did Batman first appear?,"Batman first appeared in the Detective Comics #27 in May, 1939. The character is a superhero co-created by a famous artist and separate writer.","May, 1939",Batman is a superhero co-created by artist Bob Kane,"May, 1939",0.4,0.36000000000000004,0.44000000000000006,0.5714285714285715,0.5142857142857143,0.6285714285714287,0.4,0.36000000000000004,0.44000000000000006,50,74,218798,5
+13,Batman,Did Batman start with a book or a movie?,"That would be a comic book, specifically.  The character made his first appearance in Detective Comics #27 (May, 1939)",Detective Comics,Detective Comics,comic book,0.5,0.45,0.55,0.5,0.45,0.55,0.4996249062265567,0.449662415603901,0.5495873968492124,32,75,25372,5
+14,Batman,how old is batman?,"Batman made his first appearence in media in May of 1939, so he is quite old. He premiered as a vigilante.","May, 1939",Batman,1968,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,0.0,0.0,0.0,76,94,79169,5
+15,Batman,how old is batman?,Batman first appeared in comics in 1939 so that would put him at 82 years old.,1939,1939,1968,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,75,75,79169,5
+16,Batman,what is batman's real name? ,"Bruce Wayne is the real name of Batman who, after witnessing the murder of his parents as a child, donned a bat-themed costume in order to fight crime.",Bruce Wayne,his parents,"Bruce Wayne
+      
+
+
+
+       Aliases",0.5,0.45,0.55,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,11,168,120761,5
+17,Batman,Is batman s a superhero? ,"Yes, Batman is a superhero. He witnessed the murder of his parents as a child and trained himself to fight crime. He does not possess any superpowers but uses his skills to the best of his ability to fight crime.",Batman,he does not possess any superpowers,"Unlike most superheroes, he does not possess any superpowers",0.33333333333333337,0.30000000000000004,0.36666666666666675,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.33333333333333337,0.30000000000000004,0.36666666666666675,74,434,218798,5
+18,Batman,what year was it release? ,He first appeared in May 1939. The comic's name was Detective comics.,1939,27,2013,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,0.0,0.0,0.0,9,20,142296,5
+19,Batman,Hi. When was the first Batman comic released?,"Batman made his first appearance in the comic ""Detective Comics #27"" which was released in May of 1939. He was created by writer Bill Finger and artist Bob Kane.",1939,Bob Kane,"June 23, 1989",0.5,0.45,0.55,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,50,50,22177,5
+20,Batman,When was the original batman released?,"The first appearance of Batman was in May 1939 in Detective Comics #27 title The Case of the Chemical Syndicate. In the comic, Commisioner Gordon learns that a chemical industrialist was murdered. Bruce Wayne, a young friend of Gordon, is present at the crime scene and decides to investigate as Batman.",May 1939,May 1939,August 2021,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.0,0.0,0.0,8,398,31856,5
+21,Batman,Batman,"Batman is a character co-created by artist Bob Kane and author Bill Finger to be the protector of the fabled Gotham City. As the story goes, he is revered as the CEO of Wayne Enterprises, Patriarch of the Bat Family, and a veteran to the Justice League. Batman is considered to be in peak physical condition, possessing a degree of genius as a detective and a skill for escaping.",Batman,Peak human physical condition,The Brave and the Bold,0.0,0.0,0.0,0.2222222222222222,0.19999999999999998,0.24444444444444446,0.0,0.0,0.0,150,197,96193,5
+22,Batman,Who is Batman?,"He is a superhero. He was created by BobKne and Bill Finger. As a character, he is the patriarch of the Bat Family and the CEO of Wayne Enterprises.",a superhero,"CEO of Wayne Enterprises, Patriarch of the Bat Family","Bruce Wayne
+        
+
+
+
+
+
+
+      General Information",0.4,0.36000000000000004,0.44000000000000006,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,21,108,218798,5
+23,Batman,Who is batman?,http://learning-environment-optimisation.us-east-2.elasticbeanstalk.com/experiment/?mTurkId=A3G8JHYINIOP64&surveyId=https://cambridge.eu.qualtrics.com/jfe/form/SV_9snnYxpUcF3ZreK,Patriarch of the Bat Family,Batman,Alfred Pennyworth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,148,76,218798,5
+24,Batman,What was the first piece of media to feature Batman,Dc comics and Dc universe where the first media to feature the batman series,DC Comics,DC Universe,"Warner Brothers
+   Batman Film Franchise",0.4996249062265567,0.449662415603901,0.5495873968492124,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,10,11,39437,5
+25,Batman,When the first Batman movie released?,"I am sorry, I do not know. I do know that he first appeared in comics in issue #27 of detective comments which was released in may of 1939.",I don't know,1939,"June 15, 2005",0.4999996249999062,0.4499996624999156,0.5499995874998969,0.5,0.45,0.55,0.0,0.0,0.0,12,76,30681,5
+26,Batman,what year was batman launched?,Batman was first launched in May 1939. He was created by Bill Finger and Bob Kane.  Do you want to know how Batman came to be ?,1939,Bill Finger (writer) Bob Kane,2005,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,32,38,40288,5
+27,Batman,Hi. What is Batman's name?,"Batman's real name is Bruce Wayne. Bruce Wayne, born to Thomas Wayne and Martha Kane, is the CEO of Wayne Enterprise, who also protects Gotham as Batman.",Bruce Wayne,Martha Kane,"Bruce Wayne
+      
+
+
+
+       Aliases",0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,0.3333333333333333,0.3,0.3666666666666667,44,213,94346,5
+28,Batman,When did the Batman comics first appear?,"The Batman first appeared in Detective Comics #27 in May 1939, and soon got the title Batman after his introduction",1939,soon after his introduction,"February 10, 1977",0.4996249062265567,0.449662415603901,0.5495873968492124,0.5,0.45,0.55,0.0,0.0,0.0,32,175,26496,5
+29,Batman,Does Batman have real wings? ,"No Sorry he does not, He is the son of Thomas Wayne and Maratha Kane, which rhymes! ",,Bruce Wayne,David Zavimbe,0.0,0.0,0.0,0.4999996249999062,0.4499996624999156,0.5499995874998969,0.0,0.0,0.0,0,64,10714,5
+30,Batman,what is the batmobile?,"A modified car used for both high-speed pursuits and general travel. Batman often uses the Batmobile to patrol the streets of Gotham or as his general response to situations.The Batmobile is generally housed in the Batcave, though secret garages and maintenance points can be found around Gotham.",to patrol the streets of Gotham or as his general response to situations,housed in the Batcave,personal automobile and primary mode of transportation,0.44442716030178114,0.399984444271603,0.4888698763319593,0.2857632639067455,0.25718693751607097,0.3143395902974201,0.21875000000000003,0.19687500000000002,0.24062500000000006,174,122,18202,5
+31,Batman,What is the latest in the Batman Series of movies?,"The Suicide Squad was released on August 6th, 2021, and is one of the latest in the Batman mythos. This film features many characters connected to the Batman franchise such as Harley Quinn.",The Suicide Squad,"Harley Quinn Release Date
+August 6, 2021",1989,0.4996249062265567,0.449662415603901,0.5495873968492124,0.8023952095808384,0.7221556886227546,0.8826347305389224,0.0,0.0,0.0,17,111,19958,5
+32,Batman,Who was Batman's first villian?,Alfred Stryker was the first villain Batman faced. Batman beats Styker and pushes him into a vat of acid.,Alfred Stryker,Stryker,Alfred Pennyworth,0.5,0.45,0.55,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,14,96,164650,5
+33,Batman,I filled out the test & clicked submit.  ,"Batman is known for high level resources and intelligence, a master in martial arts and physical conditions and equipped with high tech gears. He is also a member of Justice League and his alter ego is Bruce Wayne",Access to high tech equipment,Access,With a flip of his coin,0.2857142857142857,0.2571428571428571,0.3142857142857143,0.0,0.0,0.0,0.0,0.0,0.0,144,236,11138,5
+34,Batman,when was batman made?,"Batman's first appearance was in Detective Comics #27 in May, 1939.  This was only the beginning for the development for the character and many comic appearances, television shows, and movies. As the years went on, there were many differing takes on the character, such as the late 1960s television series, the 1986 Dark Knight series, and TIm Burton's 1989 Batman motion picture. ","May, 1939",1960s,"a month after Batman's
+   50th anniversary",0.4,0.36000000000000004,0.44000000000000006,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.0,0.0,0.0,50,442,159079,5
+35,Batman,what year was batman release? ,Batman first appeared in comic book form in May 1939. His real later appeal came from Tim Burton's amazing film in 1989.  Do you want to know about his origins? ,1939,1989,1989,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,32,73,31005,5
+36,Batman,When did Batman first appear in a comic book?,"Batman first appeared in comics in Detective Comics #27: ""The Case of the Chemical Syndicate."" In this debut, the story line follows an investigation into the murder of an industrialist.",1939,The Case of the Chemical Syndicate,1939,0.4996249062265567,0.449662415603901,0.5495873968492124,0.5,0.45,0.55,0.4996249062265567,0.449662415603901,0.5495873968492124,50,149,218798,5
+37,Batman,who is the star in batman?,Batman is the star but also Bruce Wayne who is his secret identity! Do you want to know who it was created by?,Batman,Bruce Wayne,"Jay Lycurgo
+      
+
+
+
+
+    Tim Drake",0.4999996249999062,0.4499996624999156,0.5499995874998969,0.49624060150375937,0.44661654135338347,0.5458646616541354,0.0,0.0,0.0,6,11,159452,5
+38,Batman,What is Batman?,"Batman is a superhero who has been Gotham City 's protector for decades, CEO of Wayne Enterprises, Patriarch of the Bat Family and veteran member of the Justice League ",protector,a superhero,"Bruce Wayne
+        
+
+
+
+
+
+
+      General Information",0.33333333333333337,0.30000000000000004,0.36666666666666675,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.0,0.0,0.0,150,76,218798,5
+39,Batman,when was batman made,"Batman first appeared in Detective Comics #27 (May, 1939), by Bill Finger (writer) Bob Kane (artist)","May, 1939",Bill Finger (writer) Bob Kane (artist),"50th anniversary
+   of his comic debut",0.4,0.36000000000000004,0.44000000000000006,0.6666666666666666,0.6,0.7333333333333334,0.3333333333333333,0.3,0.3666666666666667,32,38,40288,5
+40,Batman,Hi! Is Batman a real human? ,"If you mean in the movie, then yes he is human, as his name is Bruce wayne who is the CEO of Wayne enterprise",Bruce Wayne,CEO of Wayne Enterprises,"Batman
+    
+
+
+
+
+
+         Batman
+        
+
+
+
+         Bruce Wayne
+        
+
+
+
+
+
+
+      General Information",0.5,0.45,0.55,0.5,0.45,0.55,0.44422200000000006,0.39979980000000004,0.4886442000000001,11,24,218798,5
+41,Batman,who played batman the most on tv?,Adam West made the most appearances of Batman on TV in the 1960's show.,Batman,Batman,"Madge Blake
+       Yvonne Craig",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,127,193,87992,5
+42,Supernanny,what year was the show premiere?,"The British Supernanny began airing on Channel 4 on July 7, 2004. The first American Supernanny show began airing on ABC on Janurary 7, 2005. The American Supernanny show spanned 126 episodes contained into seven seasons.",2005,The show spanned 126,2004,0.4996249062265567,0.449662415603901,0.5495873968492124,0.5,0.45,0.55,0.5,0.45,0.55,139,59,7246,5
+43,Supernanny,What is the plot of the show?,"Hide Selected Literal Answer Spans This reality project, Supermanny, centers on the tough-love guidance of Chicago-based child therapist  Hide Added Additional Info This reality project, Supermanny, centers on the tough-love guidance of Chicago-based child therapist",tough-love guidance of Chicago-based child therapist,tough-love guidance of Chicago-based child therapist,"The Howat Family
+      
+
+
+
+
+      Next
+     
+
+      The Bates Family
+     
+
+
+
+
+
+    The Brown-Smith Family",0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,101,101,10881,5
+44,Supernanny,what year was the show release ? ,"Good morning!The first American Supernanny show began airing on ABC on January 7, 2005.",2005,COVID-19 Pandemic,2004,1.0,0.9,1.1,0.0,0.0,0.0,0.0,0.0,0.0,74,121,8864,5
+45,Supernanny,what year was supernanny released? ,"July 7, 2004. The British Supernanny began airing on Channel 4.",2004,British,2004,0.4996249062265567,0.449662415603901,0.5495873968492124,0.4999996249999062,0.4499996624999156,0.5499995874998969,0.4996249062265567,0.449662415603901,0.5495873968492124,12,48,9241,5
+46,Supernanny,What is Supernanny?,Supernanny is a TV show that started as a British series and was successful enough to broadcast overseas versions including an the US version in 2005.,British TV series,overseas versions,a British TV series,0.6666666666666666,0.6,0.7333333333333334,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.33333333333333337,0.30000000000000004,0.36666666666666675,19,156,8625,5
+47,Supernanny,What is Supernanny about?,"Supernanny is a British reality television programme about parents struggling with their children's behaviour, mealtime, potty training, etc. The show features professional nanny Jo Frost, who devotes each episode to helping a family where the parents are struggling with child-rearing.",The British Supernanny,Moonshine music,British TV series,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,0.4,0.36000000000000004,0.44000000000000006,110,168,8625,5
+48,Supernanny,What is supernanny?,It is a British TV series. The UK and US English-language version have been broadcast in 47 different territories.,British TV series,a British TV series,a British TV series,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,20,108,8625,5
+49,Supernanny,what genre is the tv series? ,"Supernanny is considered a controversial reality show that aired from January 1 to September 22, 2020 on Lifetime. Originally, it started off as a British television series before eventually being broadcast in 47 different territories. ",controversial,British,Supernanny,0.4,0.36000000000000004,0.44000000000000006,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.0,0.0,0.0,27,193,9088,5
+50,Supernanny,"Ok, Where does the Supernanny mainly live (country)?",Supernanny lives in the UK. It is originally a British TV series.,UK,British,Chile to Slovakia,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,6,19,9105,5
+51,Supernanny,What is a Supernanny at all? Movie series? ,Supernanny started off as a British TV series.  It moved to the US in 2005. It's a reality series about raising children,British,the first American version of Supernanny shares the parent's ages,British,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,0.4996249062265567,0.449662415603901,0.5495873968492124,141,94,9645,5
+52,Supernanny,what year was the show released?,"The first American Supernanny show began airing on ABC on January 7, 2005.",2005,2005,2004,0.4999996249999062,0.4499996624999156,0.5499995874998969,0.4999996249999062,0.4499996624999156,0.5499995874998969,0.0,0.0,0.0,74,74,9607,5
+53,Supernanny,what type of t series is supernanny? ,Supernanny is an American reality television program about parents struggling with aspects of raising their children ,British,American,British,0.0,0.0,0.0,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,209,143,8625,5
+54,Supernanny,what is supernanny? ,Supernanny is a show about a nanny who uses tough-love guidance. The show began as a British TV series.,tough-love,a British TV series,a British TV series,0.4,0.36000000000000004,0.44000000000000006,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,68,45,8625,5
+55,Supernanny,what is Supernanny?,"Supernanny started off as a British TV series. The show was successful enough that overseas versions of Supernanny were broadcast in France, Germany, Brazil, Portugal, Spain, Denmark, The Netherlands, Israel, Belgium, Austria, Croatia, Poland, Romania, Russia, and Sweden with five further local format versions in production from Chile to Slovakia. Added to this, the UK and US English-language version have been broadcast in 47 different territories.",The first American Supernanny show,child therapist Mike Ruggles,a British TV series,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,0.4,0.36000000000000004,0.44000000000000006,196,313,8625,5
+56,Supernanny,what year did supernanny come out? ,"Supernanny came out July 7, 2004",2004,2004,2004,0.4996249062265567,0.449662415603901,0.5495873968492124,0.4996249062265567,0.449662415603901,0.5495873968492124,0.4996249062265567,0.449662415603901,0.5495873968492124,64,138,9105,5
+57,Supernanny,who is Supernanny?,"Jo Frost, a young woman originally from the UK.",Jo Frost,nanny,British TV series,0.5,0.45,0.55,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,8,129,6264,5
+58,Supernanny,What year did supernanny come out? ,"Supernanny came out in the year 2005. In the UK, however, the show began airing in 2004.",2004,2005,2004,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,64,74,9105,5
+59,Supernanny,"Tell me about yourself, What is the use of this study?",I don't know. Just a little bit of Chicago-based tough love guidance.,I don't know,tough-love,temporarily separating a person from an enviro,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,12,19,7286,5
+60,Supernanny,What is the key to raising someone elses kids?,I don't know. Supernanny features families in front of the camera with the narrator talking about the families.,I don't know,in front of the camera,internet,0.4996249062265567,0.449662415603901,0.5495873968492124,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,12,130,12093,5
+61,Supernanny,who is supernanny?,"Her name is Jo Frost, and she is from the UK.",Jo Frost,Jo Frost,British TV series,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.5,0.45,0.55,8,8,6264,5
+62,Supernanny,who is the star of this serie?,"Jo Frost, a young woman from the UK.",Jo Frost,Jo Frost,"Michael Stephen Charles ""Mike"" Ruggles III",0.5,0.45,0.55,0.5,0.45,0.55,0.0,0.0,0.0,8,8,4056,5
+63,Supernanny,who created the show? ,"I really have no idea. Supernanny began as a British television show airing on Channel 4 starting on July 7, 2004.",I don't know,Supernanny,"Michael Stephen Charles ""Mike"" Ruggles III",0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,0.0,0.0,0.0,12,98,2605,5
+64,Supernanny,Tell what year it was released? ,"Supernanny started off as a British TV series. The first American Supernanny show began airing on ABC on January 7, 2005.",2005,Supernanny,2008,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,0.0,0.0,0.0,73,45,6497,5
+65,Supernanny,What year was it released? ,"The show was released in the year 2005. It aired until 2019, just before the COVID-19 Pandemic.",2005,COVID-19 Pandemic,1981,0.4996249062265567,0.449662415603901,0.5495873968492124,0.4999996249999062,0.4499996624999156,0.5499995874998969,0.0,0.0,0.0,74,61,6497,5
+66,Supernanny,What does Supernanny do?,"Supernanny started off as a British TV series. The show was successful enough that overseas versions of Supernanny were broadcast in France, Germany, Brazil, Portugal, Spain, Denmark, The Netherlands, Israel, Belgium, Austria, Croatia, Poland, Romania, Russia, and Sweden with five further local format versions in production from Chile to Slovakia. Added to this, the UK and US English-language version have been broadcast in 47 different territories.",British TV series,the UK and US English-language version have been broadcast in 47 different territories,British TV series,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,348,102,8625,5
+67,Alexander Hamilton,Who plays Alexander Hamilton in the Broadway show?,"Lin-Manuel Miranda originated the role and held it for the entirety of the production. Miguel Cervantes currently plays Alexander Hamilton in the Chicago Production, previously serving as the character's alternate on Broadway.",Lin-Manuel Miranda,Miguel Cervantes,,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,86,140,0,0
+68,Alexander Hamilton,What is the genre of music in this Alexander Hamilton?,"Hamilton tells the story of Alexander Hamilton using Hip-Hop. The idea was first brought up when Lin was at a bar and discussed a concept album. He soon produced The Hamilton Mixtape, which was followed by a performance at the Lincoln Center and then the musical that we all know today.",hip-hop,hip-hop,,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.0,0.0,0.0,7,253,0,0
+69,Alexander Hamilton,Who is Alexander Hamilton?,"Hamilton was many things, he served in the Continental army under Washington, then when the US government formed he became our first secretary of Treasury. An interesting fact; you can see his image on a $10 bill, if you're lucky enough to have 10$.",Secretary of the Treasury,Federalist,,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,0.0,0.0,0.0,25,10,0,0
+70,Alexander Hamilton,Who wrote the musical?,Writer Lin-Manuel Miranda also portrayed Alexander Hamilton in its first appearance ,Lin-Manuel Miranda,"Vassar Workshop
+Lin-Manuel Miranda",,0.6666666666666666,0.6,0.7333333333333334,0.5,0.45,0.55,0.0,0.0,0.0,18,87,0,0
+71,Alexander Hamilton,What is the musical about?,"Hamilton is a Broadway musical and it tells the story of Alexander Hamilton, Secretary of Treasury and Founding Father. The lyrics and music are based on Hamilton's biography.",the life of American Secretary of Treasury and Founding Father,Alexander Hamilton,,0.6666666666666666,0.6,0.7333333333333334,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,121,127,0,0
+72,Alexander Hamilton,When did the play open on Broadway?,"ts schedule to perform from July to September 2018 was: July 9-September 1, 2018: Tuesday @7pm, Wednesday @2pm and 8pm, Thursday @7pm, Friday @8pm, Saturday @2pm and 8pm, and Sunday @3pm .","July 9-September 1, 2018","July 9-September 1, 2018",,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,188,188,0,0
+73,Alexander Hamilton,Who was Alexander Hamilton in Hamilton musical?,"Alexander Hamilton is the main protagonist of the musical Hamilton. The character is a founding father and the Secretary of Treasury for the United States, portrayed originally by Lin Manuel Miranda. ",Secretary of the Treasury,Lin-Manuel Miranda,,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,102,18,0,0
+74,Alexander Hamilton,Who is Alexander Hamilton?,"Alexander Hamilton, born in either 1755 or 1757, was the first Secretary of Treasury. He was married to Elizabeth Schuyler Hamilton and became well known as the main protagonist in the musical Hamilton. ",Secretary of the Treasury,wife,,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,55,67,0,0
+75,Alexander Hamilton,Hello. What is the musical about?,"It's about the life and times of Alexander Hamilton. When Hamilton arrived in New York he became interested in the up-and-coming American revolution. The newly elected President Washington enlists Hamilton for the job of Secretary of Treasury, despite Eliza's pleas.",American revolution,The newly elected President Washington enlists Hamilton for the job of Secretary of Treasury,,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,96,116,0,0
+76,Alexander Hamilton,Who is Hamilton?,He is the main character in the hip hop musical about the American Revolution. He was the first Secretary of Treasury.,Alexander Hamilton is the titular main protagonist,Secretary of the Treasury,,0.6666666666666666,0.6,0.7333333333333334,0.5,0.45,0.55,0.0,0.0,0.0,76,25,0,0
+77,Alexander Hamilton,Who is Hamilton?,"Alexander Hamilton is the main character in the musical, Hamilton, who writes The Federalist Papers with James Madison and John Jay after Aaron Burr refused.",Alexander Hamilton is the titular main protagonist,James Madison and John Jay,,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,76,100,0,0
+78,Alexander Hamilton,what year was the musical release?,"I'm not sure, but the Original Broadway musical had Lin-Manuel Miranda in it.",I don't know,Broadway,,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,12,32,0,0
+79,Alexander Hamilton,"What was Hamilton accused of in ""We Know?""","Hamilton was accused of theft by three of his political enemies, namely Burr, Jefferson and Madison. These claims arose when they found evidence of payments Hamilton made to blackmail James Reynolds and the three enemies thought he was stealing the government's money.",theft,slandering the government's money,,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,0.0,0.0,0.0,5,189,0,0
+80,Alexander Hamilton,What is the signficance of Alexander Hamilton?,"He was the first secretary of the treasury and the main character in the musical Hamilton, a hop hop musical about the American Revolution. ","Occupation
+
+Secretary of the Treasury",titular main protagonist,,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,37,76,0,0
+81,Alexander Hamilton,Who is Alexander Hamilton? ,"Alexander Hamilton, also known as Tom-Cat, was George Washington's secretary during the American Revolutionary War. He then became Secretary of Treasury under President George Washington.",Secretary of the Treasury,George Washington,,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,25,215,0,0
+82,Alexander Hamilton,Who is starred as Alexander Hamilton in the musical Hamilton?,Alexander Hamilton stared in musical ,,Alexander Hamilton,,0.0,0.0,0.0,1.0,0.9,1.1,0.0,0.0,0.0,0,18,0,0
+83,Alexander Hamilton,Is Hamilton historically accurate?,What are the Different types of Music available? list out?,,I toe the line,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,230,0,0
+84,The Wonderful Wizard of Oz (book),is the tin man still alive?,"Well, at the end of the show he was still alive. He'd gotten an award of a heart from the wizard of oz. Please note that the wiki for Wizard of Oz did not load, so I can't copy paste answers, but know quite a bit about the show and am happy to answer your questions, quickly, quite quickly.",20Oz,nderful%20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11,10,0,0
+85,The Wonderful Wizard of Oz (book),Who is the main character?,"Dorothy Gale is the main protagonist of the broad Oz novels, written by L. Frank Baum. Her first appearance was in The Wonderful Wizard of Oz.",I don't know,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12,0,0,0
+86,The Wonderful Wizard of Oz (book),I like the monkeys in this play,These monkeys had bird-like feathered wings. They were meant to represent the Native Americans in the 1800s.,ul%20Wizard,f%20Oz,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27,50,0,0
+87,Jujutsu Kaisen,What is jujutsu Kaisen?,"It's a Manga. It was written by Ege Akutami, it's published in Weekly Shonen Jump.",a manga,The first chapter,"0: The Movie
+     
+
+
+
+      Staff
+     
+
+
+       Director",0.4999996249999062,0.4499996624999156,0.5499995874998969,0.0,0.0,0.0,0.0,0.0,0.0,108,84,24108,5
+88,Jujutsu Kaisen,what is jujutsu kaisen?," jujutsu kaisen is a story about Yuji Itadori an expert at track and field but he has zero interest running around in circles, he's happy as a clam in the Occult Research Club. Although he's only in the club for kicks, things get serious when a real spirit shows up at school! When his grandfather is on his deathbed, Yuji makes a promise to him; that he will do kind deeds so that he dies surrounded by loved ones, unlike his grandfather.  Would you like more about Yuji Itadori?",expert at track and fiel,kicks,"0: The Movie
+     
+
+
+
+      Staff
+     
+
+
+       Director",0.25,0.225,0.275,0.25,0.225,0.275,0.0,0.0,0.0,145,99,24108,5
+89,Jujutsu Kaisen,what is Jujutsu Kaisen and where is it most prevalent ,"Jujutsu Kaisen is a manga, written by Gege Akutami. As far as prevelancy goes, it is published weekly in Shoen Jump, so that is where you could find it.",a manga,Weekly Shonen Jump,Japanese Name,0.4,0.36000000000000004,0.44000000000000006,0.5,0.45,0.55,0.0,0.0,0.0,67,36,49660,5
+90,Jujutsu Kaisen,who is this person?,"First Jujutsu Kaisen is manga, it's sold over 50 million copies, including digital versions, Would you like to know more? It's interesting.",Jujutsu Kaisen,Jujutsu Kaisen,"a
+   
+    special grade
+   
+
+    jujutsu sorcerer",0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,153,153,37233,5
+91,Jujutsu Kaisen,Hello,"Hello.  Jujutsu Kaisen is a manga written and illustrated by Gege Akutami and is published in Weekly Shonen Jump . The first chapter was published on March 5, 2018 in issue 14 of Weekly Shonen Jump . In 2018, Gege Akutami started their first full serialization with Jujutsu Kaisen in issue 14 of Weekly Shonen Jump . Jujutsu Kaisen serves as the follow-up series to Jujutsu Kaisen. Would you like to know more about the plot? ",Jujutsu Kaisen,Weekly Shonen Jump,Hiromi Higuruma,0.24999978124997269,0.22499980312497542,0.27499975937496995,0.2857632639067455,0.25718693751607097,0.3143395902974201,0.0,0.0,0.0,227,198,30747,5
+92,Jujutsu Kaisen,Who is the Jujusu Kaisen?,"well, it's more of a what than a who. Jujutsu Kaisen is manga, it's a Japanese type comic/or Anime. It's a sort of fascinating thing and DOES have persons IN it who ARE who, Shall I tell you of them?",Gege Akutam,Gege Akutam,"Kayleigh McKee
+      
+
+
+
+
+
+
+    Yuta Okkotsu",0.0,0.0,0.0,0.0,0.0,0.0,0.28571428571428575,0.2571428571428572,0.31428571428571433,100,100,49921,5
+93,Jujutsu Kaisen,What exactly is Jujutsu Kaisen?,Great question. Jujutsu Kaisen is a manga written and illustrated by Gege Akutami.   The first chapter was published on March 5 this is when the serialization of Jujutsu Kaisen started.  Would you like to know about the plot?,a manga,an sequel to the previous short series,"0: The Movie
+     
+
+
+
+      Staff
+     
+
+
+       Director",0.33333333333333337,0.30000000000000004,0.36666666666666675,0.0,0.0,0.0,0.0,0.0,0.0,227,190,24108,5
+94,Enter the Gungeon,What's Enter the Gungeon about?,It's a videogame about a group of kids trying to find a gun that will kill the past. ,ultimate treasure,Exit the Gungeon,a gunfight dungeon crawler,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,186,119,15523,5
+95,Dinosaur,What year was this dinosaur release? ,"I don't know what dinosaur specifically you mean, but according to a reconstruction of Eoraptor, an early dinosaur, dinosaurs diverged from their ancestors about 230 million years ago",I don't know,230 million years ago,2015,0.6666666666666666,0.6,0.7333333333333334,0.5,0.45,0.55,0.0,0.0,0.0,12,304,27133,5
+96,Dinosaur,when was the existence of Dinosaur?,"Dinosaurs dominated the Earth for roughly 170 million years with their first appearance taking place approximately 240 million years ago. By the conclusion of the Cretaceous Period, non-flying dinosaurs suffered from a cataclysmic event that resulted in their extinction.",240 million years ago,66 million years ago,240 million years ago,0.4996249062265567,0.449662415603901,0.5495873968492124,0.4996249062265567,0.449662415603901,0.5495873968492124,0.4996249062265567,0.449662415603901,0.5495873968492124,180,152,151700,5
+97,Dinosaur,what is your favorite dinosaur?,"My favorite dinosaur is the Pyroraptor, which was a small bird-like theropod. It's name means ""Mount Olympus fire thief"", since we found its remains after a forest fire.",Pyroraptor,Mount Olympus,rauisuchians,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,146,99,67526,5
+98,Dinosaur,What was the first type of Dinosaur?,The Eoraptor is believed to be one of the earliest dinosaurs having lived during the late Triassic Period about 230 million years ago.,Eoraptor,Eoraptor,Ankylosaurs,0.4996249062265567,0.449662415603901,0.5495873968492124,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,8,154,6057,5
+99,Dinosaur,What is a dinosaur?,A dinosaur is a now extinct group of animals that first appeared 240 million years ago but all non-avian dinosaurs died out roughly 170 millions years later. The only dinosaurs living today are birds.,vertebrate animals,non-avian dinosaurs suffered a catastrophic extinction birds,Xenotarsosaurus,0.0,0.0,0.0,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,148,158,1540,5
+100,Dinosaur,Tell me about Dinosaur,"Dinosaurs ( Owen , 1842) are a clade of vertebrate animals that dominated terrestrial ecosystems for approximately 170 million years, first appearing roughly 240 million years ago. At the end of the Cretaceous Period, 66 million years ago, non-avian dinosaurs suffered a catastrophic extinction , which ended their dominance on land. Taxonomists state that birds are the only remaining dinosaurs today, since birds are direct descendants of theropod dinosaurs, birds retain some dinosaurian features.",1842,Taxonomists,Late Triassic–Present,0.199999819999982,0.1799998379999838,0.21999980199998023,0.2222222222222222,0.19999999999999998,0.24444444444444446,0.4,0.36000000000000004,0.44000000000000006,179,319,151700,5
+101,Dinosaur,Hello. Hope you are great. When did dinosaurs live?,"Hi! Happy Thursday! Dinosaurs dominated the Earth for approximately 170 million years, first appearing roughly 240 million years ago.At the end of the Cretaceous Period, 66 million years ago, non-avian dinosaurs suffered a catastrophic extinction , which ended their dominance on land.",170 million years,66 million years ago,Late Triassic–Present,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.3333333333333333,0.3,0.3666666666666667,180,152,52221,5
+102,Dinosaur,what year did the dinosaurs exist? ,Dinosaurs existed 66 millions years ago. The first dinosaur was recognized in the 19th century,66 million years ago,19th century,100.5 - 66 million years ago,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.5,0.45,0.55,88,53,101909,5
+103,Dinosaur,How long were dinosaurs alive for?,"Dinosaurs dominated the Earth for roughly 170 million years, first appearing roughly 240 million years ago. By the conclusion of the Cretaceous Period, non flying dinosaurs experienced a cataclysmic event that put their existence to an end, approximately 66 million years ago.",170 million years,66 million years,66 million years ago,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.4996249062265567,0.449662415603901,0.5495873968492124,0.4996249062265567,0.449662415603901,0.5495873968492124,179,152,151700,5
+104,Dinosaur,what is the biggest dinosaur known to science? ,"The tallest and heaviest dinosaur known from a full skeleton is the Brachiosaurus, which is now mounted in the Humboldt Museum of Berlin, is 12 meters tall, and is estimated to have weight between 30 thousand to 60 thousand kilograms.",Brachiosaurus,Humboldt Museum of Berlin,A. fragillimus,0.4,0.36000000000000004,0.44000000000000006,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.0,0.0,0.0,94,156,39952,5
+105,Dinosaur,what period did the dinosaurs exist? ,"Dinosaurs lived from the Triassic period until the Cretaceous periods. After the Cretaceous-Tertiary extinction event, which occurred approximately 65 million years ago at the end of the Cretaceous period, almost all dinosaurs except the line that had already given rise to birds went extinct.",Cretaceous Period,Cretaceous period,Jurassic,0.4,0.36000000000000004,0.44000000000000006,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.33333333333333337,0.30000000000000004,0.36666666666666675,113,235,21254,5
+106,Dinosaur,What is the tallest dinosaur of all time?,"The Brachiosaurus was the largest  and heaviest dinosaur of all time based on complete fossil skeleton, but there were larger dinosaurs whose size is inferred from incomplete fossil samples.",Brachiosaurus,dinosaurs,Torvosaurus,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,0.0,0.0,0.0,13,116,17747,5
+107,Dinosaur,Where did the Dinosaurs go?,they became extinct ,extinction,land,Cretaceous South America,1.0,0.9,1.1,0.0,0.0,0.0,0.0,0.0,0.0,37,134,20469,5
+108,Dinosaur,How many horns did a triceratops have?,"The triceratops have 3 horns. Scientist have began studying the connections between the bird family and the dinosaurs evolution of flight, this is now call the ""Dinosaur Renaissance"". There has been new discoveries in China that have further developed this evolutionary connection. ",I don't know,feathered dinosaurs,"Late Cretaceous
+       
+
+
+
+          PreЄ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12,289,63103,5
+109,Dinosaur,When did the dinosaurs reign?,Roughly 240 million years ago to being. They were dominate for about 170 million years and they died out 66 million years ago.,240 million years ago,66 million years ago,"end of the
+   
+    Cretaceous
+   
+   Period",0.4999999999625,0.44999999996625,0.54999999995875,0.5,0.45,0.55,0.5,0.45,0.55,29,182,151700,5
+110,Dinosaur,What is the most recently discovered dinosaur?,"A recently discovered troodont fossil demonstrates that the dinosaurs slept like certain modern birds, with their heads tucked under their arms.",I don't know,troodont,birds,0.0,0.0,0.0,0.4996249062265567,0.449662415603901,0.5495873968492124,0.4999996249999062,0.4499996624999156,0.5499995874998969,12,143,151700,5
+111,Dinosaur,What is the Dinosaur,"Dinosaurs are a group of vertebrate animals that dominated terrestrial ecosystems for approximately 170 million years, first appearing roughly 240 million years ago.Taxonomists state that birds are the only remaining dinosaurs today.The term dinosaur is sometimes used informally to describe other prehistoric reptiles.",a clade of vertebrate animals,birds are the only remaining dinosaurs today,"a clade of
+   
+    vertebrate
+   
+
+    animals
+   
+   that dominated terrestrial ecosystems",0.33333333333333337,0.30000000000000004,0.36666666666666675,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.5714285714285715,0.5142857142857143,0.6285714285714287,180,155,101556,5
+112,Dinosaur,When did dinosaurs first show up?,"The first dinosaur to be formally described was in 1677 by William Buckland, the Megalosaurus. The first American dinosaur was found in 1858 by William Foulke near New Jersey and they named it Hadrosaurus foulkii ",1677,1858,240 million years ago,0.24999978124997269,0.22499980312497542,0.27499975937496995,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,182,219,151700,5
+113,Dinosaur,waht are dinosaurs?,"Dinosaurs are a grouping of vertebrae animals that dominated the Earth for roughly 170 million years, with their first existence dating 240 million years ago. At the conclusion of the Cretaceous period, roughly 66 million years ago, a catastrophic event took place and forced these animals to extinction. Taxonomists consider birds to be the last remaining descendants of dinosaurs alive today. With this in mind, it is a wonder in how long it was before humanity first recorded dinosaur findings.",Dinosaurs,birds are the only remaining dinosaurs today,theropod dinosaurs belonging to the clade Therizinosauria,0.0,0.0,0.0,0.2857632639067455,0.25718693751607097,0.3143395902974201,0.0,0.0,0.0,180,372,54292,5
+114,Dinosaur,Can you tell me what Dinosuars are?,"Dinosaurs are a clade of vertebrate animals that dominated terrestrial ecosystems for approximately 170 million years. Taxonomists state that birds are the only remaining dinosaurs today, since birds are direct descendants of theropod dinosaurs, birds retain some dinosaurian features.",a clade of vertebrate animals,Taxonomists state that birds are the only remaining dinosaurs,Tyrannos,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.0,0.0,0.0,132,166,112655,5
+115,Dinosaur,When Dinosaur lived in the world?,"Dinosaurs ( Owen , 1842) are a clade of vertebrate animals that dominated terrestrial ecosystems for approximately 170 million years, first appearing roughly 240 million years ago.",170 million years,240 million years ago,Late Triassic,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.33333333333333337,0.30000000000000004,0.36666666666666675,132,46,51764,5
+116,Dinosaur,tell me about Dinosaur,"Dinosaurs are animals that lived about 170 million years ago. Their skeletons were found in the 1800s, and they have since become big attractions at places like mueseums.","Dinosaurs ( Owen , 1842",fossilized dinosaur skeletons have become major attractions at museums around the world.,Late Triassic–Present,0.0,0.0,0.0,0.4999996249999062,0.4499996624999156,0.5499995874998969,0.0,0.0,0.0,133,158,151700,5
+117,Dinosaur,who is the king of the dinosaurs? ,"Because of the fossil record, scientists will probably never be certain of the largest and smallest dinosaurs.","scientists will
+
+probably never be certain of the largest and smallest dinosaurs","scientists will
+
+probably never be certain of the largest and smallest dinosaurs",Dinosaur King,0.8,0.7200000000000001,0.8800000000000001,0.8,0.7200000000000001,0.8800000000000001,0.0,0.0,0.0,81,81,5742,5
+118,Dinosaur,what are dinosaurs?,Dinosaurs are a group of animals that dominated the terrestrial ecosystem for around 170 million years. All but the non-avian dinosaurs are now extinct due to a catastrophic event 66 million years ago.,vertebrate animals,non-avian,theropod dinosaurs belonging to the clade Therizinosauria,0.0,0.0,0.0,0.2857632639067455,0.25718693751607097,0.3143395902974201,0.0,0.0,0.0,148,115,101932,5
+119,Dinosaur,how many dinosaurs are there?,"There were many different kinds of dinosaurs with about 527 dinosaur genera identified with certainty and about 1,844 genera believed to have existed. Some of these dinosaurs were herbivorous while others were carnivorous. Some were bipeds, some were quadrupeds, and some, like Ammosaurus and Iguanodon, could walk just as easily on two or four legs.","1,844",Some dinosaurs were bipeds,Several,0.24999978124997269,0.22499980312497542,0.27499975937496995,0.24999978124997269,0.22499980312497542,0.27499975937496995,0.2222222222222222,0.19999999999999998,0.24444444444444446,190,185,151700,5
+120,Dinosaur,Is Dinosaur a type of Drink? (if not then what is it?),Dinosaurs are a class of extinct vertebrate reptilian animals.,,a clade of vertebrate animals,"The environment is extremely dangerous, and the world is not your friend here",0.0,0.0,0.0,0.3333333333333333,0.3,0.3666666666666667,0.0,0.0,0.0,0,132,8158,5
+121,Dinosaur,when was Dinosaur present here on earth?,"According to science, the first were here 230 million years ago. That is when they were said to have diverged from their archosaur ancestors. Further, they were here until 20 millions years after the Permian-Triassic Extenction event.",230 million years ago,20 million years,Late Triassic,0.49624060150375937,0.44661654135338347,0.5458646616541354,0.5,0.45,0.55,0.4996249062265567,0.449662415603901,0.5495873968492124,21,158,151700,5
+122,Dinosaur,Hi. How long ago had the dinosaurs become extinct?,The dinosaurs became extinct about 66 million years ago.,66 million years ago,65 million years ago,100.5 - 66 million years ago,0.6666666666666666,0.6,0.7333333333333334,1.0,0.9,1.1,0.5,0.45,0.55,113,154,101909,5
+123,Dinosaur,which is the most dangerous dinosaur,Velociraptors were considered one of the most dangerous. ,,Protoceratops,Rhamphosaurus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,118,63898,5
+124,The Karate Kid,Whose the main character of the Karate KId?,"I am sorry, Dog issue. I am now fully focused.",Daniel LaRusso,17-year-old boy,"Alan
+   
+
+
+   Alan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14,64,31869,5
+125,The Karate Kid,When was The Karate Kid released?,"the movie was released Dec 16,1983","June 22, 1984","December 16, 1983","June 22, 1984",0.0,0.0,0.0,1.0,0.9,1.1,0.0,0.0,0.0,13,113,82741,5
+126,Popeye,Is Popeye a cartoon or a character?,"Popeye is both these, He's a character, a sailor, veteran, and was created in 1928, he's going to be a hundred this decade.",a sailor character,a sailor character,,0.5714285714285715,0.5142857142857143,0.6285714285714287,0.5714285714285715,0.5142857142857143,0.6285714285714287,0.0,0.0,0.0,150,150,0,0
+127,Popeye,My name is Popeye.. I am full of rock hard muscle.,"Cool, you must eat something great. I wonder what it is?",Popeye Franchise,sailor character,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56,51,0,0
+128,Popeye,Why does Popeye always eat spinach?,Popeye ate spinach to gain strength. Eating spinach to gain strength became a very heavy theme of the cartoon and was even made fun of in future cartoons. ,gains a boost in strength,helpless,,0.4999996249999062,0.4499996624999156,0.5499995874998969,0.0,0.0,0.0,0.0,0.0,0.0,80,202,0,0
+129,Popeye,explain the history of popeye?,Popeye was born to Poopdeck Pappy and an unknown woman in Santa Monica. He was sent to an orphanage and raised there until he got into a serious fight at the age of 4. After this Popeye's keeper would sign him up for fights and he would box against muscular men at the docks. ,his mother's fate was unknown,early home training,,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.0,0.0,0.0,0.0,0.0,0.0,280,410,0,0
+130,Popeye,how many chracters in this cartoon?,There were 8 other characters,semi-regular appearances,Olive and occasionally Wimpy,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,462,273,0,0
+131,Popeye,was Popeye a strong guy?,In the original comics he was super strong but the popeye most people know is the later version who gained super strength through his spinach!,super-humanly strong,eating spinach,,0.4996249062265567,0.449662415603901,0.5495873968492124,0.49624060150375937,0.44661654135338347,0.5458646616541354,0.0,0.0,0.0,123,105,0,0
+132,Popeye,what year did popeye come out? ,Popeye was first seen in 1928. He was created by Elzie Crisler Segar for the comic called Thimble Theater.,1928,Thimble Theatre,,0.5,0.45,0.55,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,34,76,0,0
+133,Popeye,who is Popeye? ,"Popeye is a sailer, the main protagonist of the Popeye Franchise. He loves Spinach and Olive Oyl.",Franchise,y Elzie Crisler Segar,,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,0.0,0.0,0.0,91,57,0,0
+134,Popeye,How old is Popeye?,"Forrest Cowles ""Bud"" Sagendorf presumed the age of Popeye to be around 34 years old. His credibility comes from his experience on the project. More specifically, following Segar's death in 1938, Sagendorf began illustrating marketing materials for King features, eventually moving on to illustrate many of the Popeye comic books starting in 1946.",34,1946,,0.4,0.36000000000000004,0.44000000000000006,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.0,0.0,0.0,32,215,0,0
+135,Popeye,Who is Popeye?,"Popeye is a Sailor, he's also a US Veteran.",sailor,Franchise,,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,0.0,0.0,0.0,34,54,0,0
+136,Popeye,Who is Popeye?,Popeye is a sailor. He was first created in 1928 and is a Veteran of World War II,Franchise,Franchise,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37,54,0,0
+137,Popeye,"Teacher, Who was created popeye?","Creation and development in Thimble Theatre Popeye was created by E. C. Segar and was inspired by a man Segar knew in Chester, Illinois : Frank ""Rocky"" Fiegel . Popeye would make his debut in the January 17, 1929 Thimble Theatre strip "" Dice Island "" as a rough sailor for hire.",Thimble Theatre,E. C. Segar,,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.5,0.45,0.55,0.0,0.0,0.0,43,233,0,0
+138,Popeye,how old is popeye?,"Popeye was created in 1928, he's been around a long long time.",1928,Thimble Theatre,,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,0.0,0.0,0.0,91,98,0,0
+139,Popeye,Who created the Popeye character and under what circumstances? ,"Popeye was created by Elzie Segar, it was originally called Thimble Theatre comic strip, Later the strip became wholly his, it's now called Popeye.",Elzie Crisler Segar,Thimble Theatre,,0.4,0.36000000000000004,0.44000000000000006,0.5,0.45,0.55,0.0,0.0,0.0,114,71,0,0
+140,Popeye,who is popeye?,"Ahoy Matey, our friend popeye is a sailor, a Veteran, a Treasure Hunter, a Star, he does it all, he's quite famous, haven't you heard of him?",a sailor character,a sailor character,,0.25003749812509374,0.22503374831258438,0.27504124793760315,0.25003749812509374,0.22503374831258438,0.27504124793760315,0.0,0.0,0.0,164,164,0,0
+141,Popeye,Is Popeye a lawyer or sailor? ,"Popeye is a sailor character, the main protagonist of the Popeye Franchise. Popeye had been created in 1928 by Elzie Crisler Segar for his Thimble Theatre comic strip.",sailor,1928,,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.0,0.0,0.0,91,74,0,0
+142,Popeye,"Teacher, Who created popeye?",Popeye character created by Elzie Crisler Segar.,Elzie,Elzie Crisler Segar,,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,5,19,0,0
+143,Popeye,When was Popeye written?,"Ahoy matey, Popeye was created in 1928, ya Land Lubber.",1928,1928,,1.0,0.9,1.1,1.0,0.9,1.1,0.0,0.0,0.0,76,76,0,0
+144,Popeye,popeye was a strong fellow right?,"Yes! While his strength varies among his portrayals, per the original comics he is portrayed as super-humanly strong strong and can lift huge objects. In later adaptions, he is not quite as mighty until he gains a boost in strength by eating some spinach. Popeye was actually inspired by a real man named Frank ""Rocky"" Fiegel, who was well-known as something of a local legend, he supposedly had an inordinate strength and often participated in fights. Like Popeye, he smoked a pipe and was toothless",spinach,"Popeye, he smoked a pipe and was toothless",,0.24999978124997269,0.22499980312497542,0.27499975937496995,0.24999978124997269,0.22499980312497542,0.27499975937496995,0.0,0.0,0.0,389,271,0,0
+145,Popeye,What year was the 1st Popeye episode?,"He first appeared in January 1929, but it was not until 1948 he would star as the main character.",1929,1948,,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,16,67,0,0
+146,Game of Thrones,when was game of throne first release?,"Game of Thrones first started with Episode one on April 17, 2011",17 April-19 June 2011,17 April-19 June 2011,"March 5, 2012",0.3997599039615847,0.3597839135654262,0.4397358943577432,0.3997599039615847,0.3597839135654262,0.4397358943577432,0.0,0.0,0.0,55,55,63583,5
+147,Game of Thrones,What is Game of Thrones about?,"Game of Thrones is about the noble Houses of the Seven Kingdoms. For example, the show involves the Great House Stark of Winterfell who commands that Kingdom of the North.",the noble Houses of the Seven Kingdoms,House Stark of Winterfell is a Great House of Westeros,an American fantasy drama television series,0.4,0.36000000000000004,0.44000000000000006,0.4999999999625,0.44999999996625,0.54999999995875,0.0,0.0,0.0,38,104,268764,5
+148,Game of Thrones,when was the last season released?,"On July 30, 2015, HBO programming president Michael Lombardo announced that the TV series will last at least eight seasons, not only seven. Speaking at the Television Critics Association press tour, Lombardo said that while Season 7 was not yet technically ordered,","July 30, 2015",prequel,"July 16, 2017",0.2857142857142857,0.2571428571428571,0.3142857142857143,0.0,0.0,0.0,0.0,0.0,0.0,122,170,89285,5
+149,Game of Thrones,Is game of thrones a movie or show?,The Game of Thrones is a television series or show that is based on the novel series by George R.R. Martin: A Song of Ice and Fire.,television series,It is based on the novel series A Song of Ice and Fire,American fantasy drama television series,0.4996249062265567,0.449662415603901,0.5495873968492124,0.4999996249999062,0.4499996624999156,0.5499995874998969,0.28571416326523613,0.25714274693871253,0.3142855795917598,17,86,131631,5
+150,Game of Thrones,Who is the author of game of thrones?,The author of the book upon which it's based and the script is George RR Martin.,George R.R. Martin,"producer, creative consultant and scriptwriter",George Raymond Richard Martin,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,0.6666666666666666,0.6,0.7333333333333334,29,62,46366,5
+151,Game of Thrones,what year was game of thrones released? ,"Game of Thrones season one aired on HBO from April 17, 2011 through june 19th, 2011",,2011,2012,0.0,0.0,0.0,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,0,54,63583,5
+152,Game of Thrones,What is Game of Thrones about?,"It is about Westeros, home to seven feuding kingdoms and an external danger in the North.",the continent of Westeros,both civil war and an external invasion threaten Westeros,an American fantasy drama television series,0.5,0.45,0.55,0.8,0.7200000000000001,0.8800000000000001,0.0,0.0,0.0,174,175,268764,5
+153,Game of Thrones,Was Tywin Lanaster a good guy or bad guy?,That's complicated.  He's more of a bad guy because he married his cousin Joanna and had several children with him.  One of them was an imp and Joanna died giving birth to him. His name is Tyrion and Tywin sees him as misshapen and perverse.  Tywin hated his son Tyrion and blamed him for her death.,Tywin married his cousin Joanna Lannister,Tywin despises his younger son,Tywin Lannister,0.2222222222222222,0.19999999999999998,0.24444444444444446,0.24999978124997269,0.22499980312497542,0.27499975937496995,0.0,0.0,0.0,195,69,103677,5
+154,Game of Thrones,I know nothing about Game of Thrones; what's the general plot?,"Howdy there pardner, Thrones is an HBO series, it's based on a fantasy book written by George RR martin. The novel that it is specifically based on is A Song of Fire and Ice. It has fighting among families, dragons, White Walkers, and Direwolves. it's amazing.",fantasy,fantasy,The Queen's Justice,0.199999819999982,0.1799998379999838,0.21999980199998023,0.199999819999982,0.1799998379999838,0.21999980199998023,0.0,0.0,0.0,164,164,354447,5
+155,Game of Thrones,What is Game of Thrones?,"It's an American Fantasy drama. It is based on a book series called ""A song of Ice and Fire"" written by Gearge R R Martin. In the town of Westeros, is home to seven feuding kingdoms. They are united by the Targaryen family using dragons. Civil war and external invasion threatened Westeros, a supernatural threat that sleeps behind the wall,",fantasy drama television series,A Song of Ice and Fire,an American fantasy drama television series,0.28571428571428575,0.2571428571428572,0.31428571428571433,0.24999978124997269,0.22499980312497542,0.27499975937496995,0.22222204938267764,0.19999984444440988,0.24444425432094544,78,647,157269,5
+156,Game of Thrones,Who is the main character in Game of Thrones?,"Happy Holiday, Well, main character, often changes per episode, just before the series starts the dominant character is the Mad King, a Targaryen, Shall I just start there?",Jon Arryn,Jon Arryn,Stannis I Baratheon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,132,132,92861,5
+157,Game of Thrones,Is the Game of Thrones meant to be a fictional history of Earth?,"Not likely, the planet",the seasons can last for years at a time.,the seasons can last for years at a time.,Westeros.,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,76,76,168371,5
+158,Game of Thrones,who is the most famous character in the game of thrones?,"Well, one might argue that Tyrion Lannister is pretty famous. He's the character played by Peter Dinklage.  Jon snow is also quite popular. In fact there is a new Game of Thrones based series coming out based on his character.",Tyrion Lannister,Peter Hayden Dinklage,Stannis I Baratheon,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,21,105,112652,5
+159,Game of Thrones,what year was game of thrones released? ,"April 17th, of 2011 was HBOs release of the first episode, the series ran many years after though.",2008,2011,2012,0.0,0.0,0.0,0.49624060150375937,0.44661654135338347,0.5458646616541354,0.0,0.0,0.0,283,55,63583,5
+160,Game of Thrones,How many books are in the Game of Thrones series?,"Game of Thrones, the HBO series is based on the five books of George R. R. Martin's Song of Fire and Ice series.",It is based on the novel series A Song of Ice and Fire,five,2.1,0.6666666666666666,0.6,0.7333333333333334,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,86,80,170564,5
+161,Game of Thrones,What is the premise of game of thrones? Is it based on real countries/places?,"Game of thrones is set on the fake continent of Westeros, home of the seven feuding kingdoms. The premise of the show is that it is an american fantasy drama about civil wars and external invasions that threaten westeros and the seven kingdoms, and how they are all fighting to reclaim the iron throne.",,both civil war and an external invasion threaten Westeros,"It is based on the novel series
+   
+
+     A Song of Ice and Fire",0.0,0.0,0.0,0.5,0.45,0.55,0.0,0.0,0.0,0,273,168371,5
+162,Game of Thrones,What is the basis of the Game of Thrones seris?,"It's based on the novel series, A song of Fire and Ice, By George R R Martin.",novel series A Song of Ice and Fire,novel series A Song of Ice and Fire,medieval Britain,0.8,0.7200000000000001,0.8800000000000001,0.8,0.7200000000000001,0.8800000000000001,0.0,0.0,0.0,158,256,128701,5
+163,Game of Thrones,What genre does the Game of Thrones fall under?,Game of Thrones is an American fantasy Drama. It's a TV show.,fantasy,fantasy,fantasy,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,97,97,140165,5
+164,Game of Thrones,What is Game of Thrones armor made of?,"The armor is sometimes made of bronze, but other materials may be found in the Iron Islands, which is a regions of Westeros.",Bronze,Iron Islands,Valyrian steel,0.4996249062265567,0.449662415603901,0.5495873968492124,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,6,69,29950,5
+165,Game of Thrones,How many books have been published in the Game of Thrones series so far?,There are 5 books in the series and 3 prequel novellas set in the same world.,,five,five,0.0,0.0,0.0,0.5,0.45,0.55,0.5,0.45,0.55,0,457,111791,5
+166,Game of Thrones,who is the star in this series?,"In my opintion, Jon Snow , Eddard's bastard son by an unknown mother.  But there are many that could be considered main characters.",Jon Snow,Jon Snow,"Dickon Tarly
+    
+
+
+
+
+
+         Tom Hopper
+        
+
+
+
+         Freddie Stroma",0.4,0.36000000000000004,0.44000000000000006,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,53,53,63347,5
+167,Game of Thrones,who was the writer of Game of throne?,"George R.R. Martin is the writer and also serves as producer, creative consultant and scriptwriter on the television series.",George R.R. Martin,"producer, creative consultant and scriptwriter",George Raymond Richard Martin,0.4,0.36000000000000004,0.44000000000000006,0.7499999999999999,0.6749999999999999,0.825,0.4,0.36000000000000004,0.44000000000000006,18,83,46366,5
+168,Game of Thrones,who is the star in this show?,"Robert I Baratheon, he was first seen in Season 1, Episode 1.",Robert I Baratheon,Season 1,Nathalie Joanne Emmanuel,0.6666666666666666,0.6,0.7333333333333334,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,18,18,43199,5
+169,Game of Thrones,What is the basic story of Game of Thrones?,"That's a tough one but it's set in a world called Westros (a continent), there are 7 feuding kingdoms, there are Dragons, blood, nudity, and many antics ensue. It's engaging though.",the continent of Westeros,The dragons died out,Fire and Blood,0.24999978124997269,0.22499980312497542,0.27499975937496995,0.0,0.0,0.0,0.22222204938267764,0.19999984444440988,0.24444425432094544,198,141,135974,5
+170,Game of Thrones,who is the best character in game of thrones?,"I have to say, one who isn't human, the dragons. I love their fire breathing power.",dragons,f CGI creatures,"Lord of the Seven Kingdoms
+      
+
+       (claimant)
+      
+
+       Protector of the Realm",0.4996249062265567,0.449662415603901,0.5495873968492124,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,38,15,79621,5
+171,Game of Thrones,What is the Game of Thrones?,"It's a TV show, on HBO based on the novel series by George R R Martin.",an American fantasy drama television series,A Song of Ice and Fire,an American fantasy drama television series,0.333,0.2997,0.36630000000000007,0.4,0.36000000000000004,0.44000000000000006,0.333,0.2997,0.36630000000000007,96,88,157269,5
+172,Game of Thrones,What is the most recent season of Game of Thrones?,"The final episode was called The Iron Throne. It aired May 19, 2019, on HBO.","May 19, 2019","May 12, 2019",Season 7,0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,0.0,0.0,0.0,38,30,93153,5
+173,Game of Thrones,who was House of Targaryen in Game of Thrones?,House Targaryen was a Great House of Westeros that conquered and unified the realm. House Targaryen was deposed during Robert's Rebellion.,Great House of Westeros,Robert's Rebellion,"Sovereign
+      
+       Valyrian Freehold",0.4996249062265567,0.449662415603901,0.5495873968492124,0.4999996249999062,0.4499996624999156,0.5499995874998969,0.0,0.0,0.0,23,95,122576,5
+174,Game of Thrones,Who creat the game of thrones universe? ,"Game of Thrones was produced by the HBO cable network. It is based on the novel series A Song of Ice and Fire , written by George R.R. Martin , who serves as a producer, creative consultant and scriptwriter on the television series.",HBO,George R.R. Martin,Bran Stark,0.2857632639067455,0.25718693751607097,0.3143395902974201,0.4,0.36000000000000004,0.44000000000000006,0.0,0.0,0.0,33,171,92984,5
+175,Game of Thrones,Where was the Game of Thrones shot?,The pilot episode was filmed in Northern Ireland and Morocco. This episode was filmed in October and November of 2009.,Northern Ireland and Morocco,October and November 2009,"Malta
+   ,
+   Iceland
+   ,
+   Croatia
+   ,
+   Morocco
+   ,
+   Spain
+   , and the
+   USA",0.8,0.7200000000000001,0.8800000000000001,0.5,0.45,0.55,0.2222222222222222,0.19999999999999998,0.24444444444444446,60,25,134431,5
+176,Game of Thrones,who is the protagonist of the show? ,"Super tough one, many different episodes focus on different protagonists and characters, however as the action opens on Season One we can't look away from Lord Eddard stark, played by the excellent sean Bean.",Sean Bean,Tyrion Lannister,"Julian Glover
+      
+
+
+
+
+
+
+    Pycelle",0.4996249062265567,0.449662415603901,0.5495873968492124,0.0,0.0,0.0,0.0,0.0,0.0,30,18,94737,5
+177,Game of Thrones,when was the firs series released?,"It feels crazy that it's this long ago, but the first season aired on HBO on 17 April-19 June 2011, garnering critical acclaim and steadily rising ratings. Afterwards, HBO confirmed after the transmission of the first episode that a second season had been commissioned.",17 April-19 June 2011,HBO,2022,0.4,0.36000000000000004,0.44000000000000006,0.33333333333333337,0.30000000000000004,0.36666666666666675,0.0,0.0,0.0,110,101,32250,5
+178,Game of Thrones,What is Game of thrones its real or not?,It is based on the novel series A Song of Ice and Fire,A Song of Ice and Fire,George R.R. Martin,fantasy,0.6666666666666666,0.6,0.7333333333333334,0.0,0.0,0.0,0.0,0.0,0.0,54,29,133468,5

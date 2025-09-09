@@ -1,0 +1,2 @@
+section,method,questions_evaluated,valid_questions,excluded_questions,exclusion_rate,original_dspy_avg,corrected_avg_decimal,corrected_avg_percentage,timestamp,dataset_coverage,evaluation_framework,metric,part1_baseline,vs_part1_improvement,vs_paper_improvement
+4.4.2,LLM Cooperative QA + Compilation,1496,1291,205,13.7%,0.3542,0.41041113021611225,41.041113021611224,20250909_233055,1526 total questions,dspy.Evaluate + BootstrapFewShot (with 0.0 exclusion),SemanticF1(decompositional=True),0.389,+5.5%,3.4x better
