@@ -87,8 +87,7 @@ docs/_build/
 PragmatiCQA-sources/
 
 # Generated results and outputs (but keep results/ structure)
-*.csv
-part1_results.csv
+
 
 # FAISS indexes (large and can be rebuilt)
 faiss_indexes/
